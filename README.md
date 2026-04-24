@@ -1,6 +1,6 @@
 ## Membres du Groupe
 - Mohamed Benhamid
-- Youness Belmadani
+- Younes Belmadani
 - El Mehdi Kachour
 
 # TimeTravel Agency - Webapp Interactive
